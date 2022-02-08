@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "637648671617",
+    "project_id": "mighty-web",
+    "storage_bucket": "mighty-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637648671617:android:ad631e5c99f01c0fee0e80",
+        "android_client_info": {
+          "package_name": "com.mighty.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637648671617-i9f0melsahvit7pocc2veg9bffsob0h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKArlHtd0Jxo9BPB6N_tHAi5Y0m8nmeYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637648671617-i9f0melsahvit7pocc2veg9bffsob0h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637648671617-b869llovsc1amje80q9p2vr4igbs16j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.web"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
